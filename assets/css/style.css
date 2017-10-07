@@ -333,6 +333,10 @@ footer p {
         width: 96%;
         padding: 15px 2%
     }
+    
+    header {
+        position: static;
+    }
 
 }
 
